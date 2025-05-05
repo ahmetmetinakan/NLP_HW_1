@@ -1,6 +1,7 @@
 # **!!DİKKAT!!**
 LÜTFEN ÖDEVİ İLETTİĞİM GOOGLE COLAB LİNKİ ÜZERİNDEN İNCELEYİNİZ. BU SAYEDE KÜTÜPHANE KURULUMLARI YA DA VERSİYON ÇAKIŞMALARI İLE UĞRAŞMANIZA GEREK KALMAYACAKTIR.
-GOOGLE COLAB LİNKİ: https://colab.research.google.com/drive/19R40qMckT7sOWfUrR2vknJTbq2OYCVvn?usp=sharing
+
+**GOOGLE COLAB LİNKİ: https://colab.research.google.com/drive/19R40qMckT7sOWfUrR2vknJTbq2OYCVvn?usp=sharing** 
 
 
 ## **Veri Setinin Kullanım Amaçları**
