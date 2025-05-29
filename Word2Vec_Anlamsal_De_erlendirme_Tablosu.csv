@@ -1,0 +1,17 @@
+,Model,Puanlar,Ortalama Puan
+2,lemmatized_skipgram_w2_d300,"[5, 5, 4, 4, 3]",4.2
+4,lemmatized_skipgram_w4_d300,"[5, 4, 4, 3, 4]",4.0
+10,stemmed_skipgram_w2_d300,"[5, 4, 3, 4, 4]",4.0
+14,lemmatized_skipgram_w2_d100,"[5, 4, 5, 3, 3]",4.0
+0,lemmatized_skipgram_w4_d100,"[5, 4, 4, 2, 4]",3.8
+6,stemmed_skipgram_w2_d100,"[5, 4, 2, 4, 4]",3.8
+8,stemmed_skipgram_w4_d100,"[4, 4, 4, 3, 4]",3.8
+12,stemmed_skipgram_w4_d300,"[5, 4, 4, 2, 4]",3.8
+1,lemmatized_cbow_w2_d300,"[3, 3, 4, 3, 3]",3.2
+13,lemmatized_cbow_w2_d100,"[3, 4, 3, 3, 3]",3.2
+15,lemmatized_cbow_w4_d100,"[3, 4, 3, 3, 3]",3.2
+3,lemmatized_cbow_w4_d300,"[4, 4, 2, 2, 3]",3.0
+5,stemmed_cbow_w2_d100,"[4, 4, 3, 2, 2]",3.0
+9,stemmed_cbow_w2_d300,"[4, 3, 3, 2, 3]",3.0
+11,stemmed_cbow_w4_d300,"[4, 3, 3, 3, 2]",3.0
+7,stemmed_cbow_w4_d100,"[3, 3, 3, 2, 2]",2.6
