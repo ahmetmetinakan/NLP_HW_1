@@ -3,6 +3,7 @@
 
 Bu proje, [Doğal Dil İşleme](https://github.com/ahmetmetinakan/NLP_HW_1) dersi kapsamında gerçekleştirilmiş olup, kullanıcı yorumlarına dayalı olarak metinler arası benzerliklerin hem TF-IDF hem de Word2Vec yöntemleriyle hesaplanmasını ve karşılaştırılmasını içermektedir.
 
+**Google Colab Linki: https://colab.research.google.com/drive/19R40qMckT7sOWfUrR2vknJTbq2OYCVvn?usp=sharing**
 ---
 
 ## 📌 Projenin Amacı
